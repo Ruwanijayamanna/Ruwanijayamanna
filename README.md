@@ -21,10 +21,7 @@
 <a href="https://fb.com/https://www.facebook.com/ruwee.jayamanna.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ruwee.jayamanna.14" height="30" width="40" /></a>
 </p>
 
-# My Stats
-![](https://github-readme-stats.vercel.app/api?username=VidurangaDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VidurangaDev&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VidurangaDev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
