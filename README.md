@@ -15,9 +15,10 @@
 
 - ⚡ Fun fact **call me as tin tin**
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruwanijayamanna&show_icons=true&locale=en&layout=compact" alt="ruwanijayamanna" /></p>
+ 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruwanijayamanna&" alt="ruwanijayamanna" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruwanijayamanna&show_icons=true&locale=en&layout=compact" alt="ruwanijayamanna" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
