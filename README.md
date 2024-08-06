@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ruwee.jayamanna.14 ) [![LinkedIn]](https://www.linkedin.com/in/ruwani-jayamanna9926) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ruwee.jayamanna.14 ) [![LinkedIn]](https://www.linkedin.com/in/ruwani-jayamanna9926) ]
 
 
 <h3 align="left">Languages and Tools:</h3>
